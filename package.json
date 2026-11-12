@@ -1,0 +1,2 @@
+{"name":"the-alpha-gamer","version":"0.3.0","private":true,"engines":{"node":">=22.5"},
+ "scripts":{"start":"node --experimental-sqlite server.js","test":"node --experimental-sqlite test.js && node --experimental-sqlite test2.js && node --experimental-sqlite test3.js"}}
